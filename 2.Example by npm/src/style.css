@@ -1,0 +1,12 @@
+#demo1{
+    float:left;
+    width: 48%;
+    background-color: red;
+    height:300px;
+}
+#demo2{
+    float:left;
+    width: 48%;
+    background-color: blue;
+    height:300px;
+}
